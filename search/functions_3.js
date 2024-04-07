@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['name_96',['name',['../classsimdutf_1_1implementation.html#a3281cf45b997303c89cf2d462d85d384',1,'simdutf::implementation']]]
+  ['description_138',['description',['../classsimdutf_1_1implementation.html#a147dfc3a2a525074a863374ea9ea8c09',1,'simdutf::implementation']]],
+  ['detect_5fencodings_139',['detect_encodings',['../classsimdutf_1_1implementation.html#ad4a7dbe2fbc9d03da2542c07a88cdddb',1,'simdutf::implementation']]]
 ];

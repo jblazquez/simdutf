@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['supported_5fby_5fruntime_5fsystem_97',['supported_by_runtime_system',['../classsimdutf_1_1implementation.html#a6cd8f7d8787c76e690ed9c4151abb7a9',1,'simdutf::implementation']]]
+  ['latin1_5flength_5ffrom_5futf32_140',['latin1_length_from_utf32',['../classsimdutf_1_1implementation.html#a6936dace0dfd89741259cdbe49b5df2d',1,'simdutf::implementation']]],
+  ['latin1_5flength_5ffrom_5futf8_141',['latin1_length_from_utf8',['../classsimdutf_1_1implementation.html#a2cc04b416c87dfa742056ce5bd8033dc',1,'simdutf::implementation']]]
 ];
